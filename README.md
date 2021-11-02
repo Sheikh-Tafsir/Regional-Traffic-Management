@@ -37,6 +37,8 @@ Find Route:
 ![route](https://user-images.githubusercontent.com/83116065/139807544-102facc3-07c4-4d65-aa51-42e3783ebeb9.JPG)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sheikh-Tafsir&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 Steps to Add your files in git:

@@ -20,7 +20,7 @@
 
 
 
-###Admin previledges:
+### Admin previledges:
 ![admin](https://user-images.githubusercontent.com/83116065/139807221-677c21e9-abe1-433d-921f-0955f4085daa.JPG)
 
 
@@ -40,7 +40,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sheikh-Tafsir&theme=radical&repo=Regional-Traffic-Management
-)](https://github.com/anuraghazra/github-readme-stats)
+)]hi(https://github.com/anuraghazra/github-readme-stats)
 
 
 

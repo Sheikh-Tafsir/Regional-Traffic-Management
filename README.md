@@ -40,7 +40,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sheikh-Tafsir&theme=radical&repo=Regional-Traffic-Management
-)]hi(https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

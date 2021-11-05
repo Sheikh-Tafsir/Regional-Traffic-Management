@@ -35,17 +35,18 @@
 
 
 ## Features
--Distinct User ID for all the Users
--Normal User can only View own information, Admin Can View,Update,Delete data
--Police can fine any vehicle if guilty found
--User can see the Map of the town and the Route from one spot to another spot
--In time of medical emergencies or accidents, Fire service and Hospitals can be contacted without logging in
+- Distinct User ID for all the Users
+- Normal User can only View own information, Admin Can View,Update,Delete data
+- Police can fine any vehicle if guilty found
+- User can see the Map of the town and the Route from one spot to another spot
+- In time of medical emergencies or accidents, Fire service and Hospitals can be contacted without logging in
 
 
 ## UML Diagram
 ![UML](https://user-images.githubusercontent.com/83116065/140457480-e9547990-5410-4a74-bc69-88572383139f.png)
 
 
+## Stats
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sheikh-Tafsir&theme=radical&repo=Regional-Traffic-Management
 )](https://github.com/anuraghazra/github-readme-stats)
 

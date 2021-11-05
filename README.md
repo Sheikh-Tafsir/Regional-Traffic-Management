@@ -47,7 +47,7 @@
 
 
 ## Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sheikh-Tafsir&theme=radica&repo=Regional-Traffic-Management)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sheikh-Tafsir&theme=radical&repo=Regional-Traffic-Management)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## github

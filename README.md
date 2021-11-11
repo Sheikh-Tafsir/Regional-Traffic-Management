@@ -49,8 +49,10 @@
 ## Stats
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sheikh-Tafsir&theme=radical&repo=Regional-Traffic-Management)](https://github.com/anuraghazra/github-readme-stats)
 
-## Presentation Slide
+
+## Presentation Slides
 https://docs.google.com/presentation/d/1skRGAO-hJveVNIdHkGmTO-Ni0T5W8qOfuO91cl0djoE/edit?fbclid=IwAR1PWbPvDTMo_TG_6VSaWuwK4m6vTUJRBWKm3JrgYvrO6_F9OtuGHDCV_J4#slide=id.gfd256ca788_0_997
+
 
 ## github
 
@@ -59,10 +61,8 @@ https://docs.google.com/presentation/d/1skRGAO-hJveVNIdHkGmTO-Ni0T5W8qOfuO91cl0d
 2. git commit -m "message"
 3. git push
 
-
 ### Steps to copy the repo in local drive:
 1. git clone https://github.com/abidh8820/Regional-Traffic-Management.git
-
 
 ### Steps to repush files in git:
 1. git pull

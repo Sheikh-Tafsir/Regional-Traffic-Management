@@ -47,8 +47,10 @@
 
 
 ## Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sheikh-Tafsir&repo=Regional-Traffic-Management)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sheikh-Tafsir&theme=radical&repo=Regional-Traffic-Management)](https://github.com/anuraghazra/github-readme-stats)
 
+## Presentation Slide
+https://docs.google.com/presentation/d/1skRGAO-hJveVNIdHkGmTO-Ni0T5W8qOfuO91cl0djoE/edit?fbclid=IwAR1PWbPvDTMo_TG_6VSaWuwK4m6vTUJRBWKm3JrgYvrO6_F9OtuGHDCV_J4#slide=id.gfd256ca788_0_997
 
 ## github
 

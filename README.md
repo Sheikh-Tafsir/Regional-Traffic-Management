@@ -54,6 +54,42 @@
 https://docs.google.com/presentation/d/1skRGAO-hJveVNIdHkGmTO-Ni0T5W8qOfuO91cl0djoE/edit?fbclid=IwAR1PWbPvDTMo_TG_6VSaWuwK4m6vTUJRBWKm3JrgYvrO6_F9OtuGHDCV_J4#slide=id.gfd256ca788_0_997
 
 
+## Core Team 💻
+
+<table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Sheikh-Tafsir">
+            <img src="https://avatars.githubusercontent.com/u/83116065?v=4" width="100px;" alt=""/>
+            <br />
+            <sub><b>Tafsir Rahman</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/SidratulTanzilaTasmi">
+            <img src="https://avatars.githubusercontent.com/u/76552780?v=4" width="100px;" alt=""/>
+            <br />
+            <sub><b>Sidratul Tanzila</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/abidh8820">
+            <img src="https://avatars.githubusercontent.com/u/38831382?v=4" width="100px;" alt=""/>
+            <br />
+            <sub><b>Abid Hasan</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gh0st33d">
+            <img src="https://avatars.githubusercontent.com/u/76277684?v=4" width="100px;" alt=""/>
+            <br />
+            <sub><b>Arafat Bin Amin</b></sub>
+        </a>
+      </td>
+    </tr>
+</table>
+
+
 ## github
 
 ### Steps to Add your files in git:

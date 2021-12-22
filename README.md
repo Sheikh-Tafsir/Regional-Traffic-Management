@@ -1,4 +1,11 @@
-# Regional Traffic Management
+<h1 align="center">Octo Journey</h1>
+<p align="center">
+   <img src="https://img.shields.io/badge/language-Cpp-blue?style"/>
+   <img src="https://img.shields.io/github/license/Sheikh-Tafsir/Regional-Traffic-Management"/>
+   <img src="https://img.shields.io/github/stars/Sheikh-Tafsir/Regional-Traffic-Management"/>
+   <img src="https://img.shields.io/github/forks/Sheikh-Tafsir/Regional-Traffic-Management"/>
+</p>
+<h1 align="center">Regional Traffic Management</h1>
 
 ## Code Visuals
 

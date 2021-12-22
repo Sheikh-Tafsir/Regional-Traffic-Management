@@ -3,7 +3,7 @@
    <img src="https://img.shields.io/badge/language-Cpp-green?style"/>
    <img src="https://img.shields.io/github/license/Sheikh-Tafsir/Regional-Traffic-Management"/>
    <img src="https://img.shields.io/github/stars/abidh8820/Regional-Traffic-Management"/>
-   <img src="https://img.shields.io/github/forks/Sheikh-Tafsir/Regional-Traffic-Management"/>
+   <img src="https://img.shields.io/github/forks/abidh8820/Regional-Traffic-Management"/>
 </p>
 <h1 align="center">Regional Traffic Management</h1>
 

@@ -1,6 +1,6 @@
 <h1 align="center">Octo Journey</h1>
 <p align="center">
-   <img src="https://img.shields.io/badge/language-Cpp-green?style"/>
+   <img src="https://img.shields.io/badge/language-C++-green?style"/>
    <img src="https://img.shields.io/github/license/Sheikh-Tafsir/Regional-Traffic-Management"/>
    <img src="https://img.shields.io/github/stars/abidh8820/Regional-Traffic-Management"/>
    <img src="https://img.shields.io/github/forks/abidh8820/Regional-Traffic-Management"/>
